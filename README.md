@@ -2,6 +2,7 @@
 
 ### Contents
 1. **immune_lr.ipynb**:  Python notebook containing data cleaning/preprocessing/modeling
+1. **codeWithOutput.htm**:  HTML version of Python notebook containing data cleaning/preprocessing/modeling with output
 2. **immune_data.csv**: Csv file used to create model. 1085 records
 3. **pneumo.csv**: immunization probabilities for Pneumococcal vaccine 3/16-3/17
 4. **tdap.csv**: immunization probabilities for tdap vaccine 3/16-3/17
