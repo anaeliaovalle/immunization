@@ -1,0 +1,1086 @@
+age,sex,lang,ethnicity,diabetes,alcoholism,hf,liver,lung,smoking,prior_pneumo,prior_tdap,prediction,label,vaccineProbability
+72,f,hindi,indian,0,0,0,0,0,0,0,0,1,1,0.9976309
+59,m,other,other,1,1,0,0,0,0,0,0,1,0,0.9482707
+64,f,spanish,hispanic,1,0,0,0,1,0,0,0,1,1,0.90258306
+70,m,spanish,hispanic,1,1,0,0,0,1,0,0,1,0,0.7939773
+79,f,other,black/african american,1,0,0,0,0,0,0,0,1,1,0.7799757
+70,f,haitian,black/african american,1,0,0,0,0,0,0,0,1,0,0.7754517
+58,m,spanish,hispanic,1,1,0,0,0,0,0,0,1,0,0.75097364
+82,f,other,other,0,0,0,0,1,0,0,0,1,1,0.74143255
+58,f,english,black/african american,1,0,0,0,0,0,0,0,1,1,0.7211476
+67,f,english,black/african american,1,0,0,0,0,0,0,0,1,1,0.7211476
+49,m,spanish,hispanic,1,0,0,0,1,0,0,0,1,1,0.7160915
+69,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.7042798
+69,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,1,0.7042798
+70,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.7042798
+70,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.7042798
+71,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.7042798
+75,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.7042798
+61,m,spanish,hispanic,1,1,0,0,0,1,0,0,1,1,0.6819804
+70,m,spanish,hispanic,1,0,0,0,0,0,0,0,1,1,0.67187744
+71,m,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.67187744
+75,m,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.67187744
+62,f,haitian,black/african american,1,0,0,0,0,0,0,0,1,0,0.6577254
+70,m,haitian,black/african american,0,0,0,0,1,0,0,0,1,1,0.6388586
+75,f,spanish,hispanic,1,0,0,0,0,1,0,0,1,1,0.62874526
+63,m,haitian,black/african american,1,0,0,0,0,0,0,0,1,1,0.62295294
+76,f,spanish,hispanic,1,0,0,0,0,1,0,1,1,1,0.6213413
+72,m,spanish,hispanic,1,0,0,0,0,1,0,0,1,1,0.59285116
+59,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.5699338
+60,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.5699338
+60,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.5699338
+61,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.5699338
+62,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,1,0.5699338
+64,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.5699338
+65,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,1,0.5699338
+66,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,1,0.5699338
+67,f,spanish,hispanic,1,0,0,0,0,0,0,0,1,1,0.5699338
+64,f,spanish,hispanic,1,0,0,0,0,0,0,NA,1,0,0.5374504
+59,m,spanish,hispanic,1,0,0,0,0,0,0,0,1,0,0.5325807
+51,m,spanish,hispanic,1,1,0,0,0,0,0,0,0,0,0.48844713
+55,m,spanish,hispanic,1,1,0,0,0,0,0,0,0,1,0.48844713
+60,f,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.48516852
+48,f,english,black/african american,1,0,0,0,0,0,0,0,0,1,0.45019808
+57,f,english,black/african american,1,0,0,0,0,0,0,0,0,1,0.45019808
+59,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.4475891
+64,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.4475891
+39,f,spanish,hispanic,1,0,0,0,1,0,0,0,0,1,0.44378543
+78,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.4418868
+79,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.4418868
+57,f,spanish,hispanic,1,1,0,0,0,1,0,0,0,0,0.44125488
+63,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,1,0.44120148
+42,m,spanish,hispanic,1,0,0,0,1,0,0,0,0,1,0.40687814
+82,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.40502244
+60,f,other,black/african american,0,0,0,0,0,0,0,0,0,0,0.3358297
+48,m,other,other,0,1,0,0,0,0,0,0,0,0,0.3309339
+73,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,1,0.31592658
+58,m,other,other,0,0,0,0,0,1,0,0,0,1,0.2956371
+48,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.29557678
+48,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.29557678
+48,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.29557678
+49,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.29557678
+50,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.29557678
+51,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.29557678
+53,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.29557678
+54,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.29557678
+52,f,spanish,hispanic,1,0,0,0,0,0,0,1,0,1,0.2890416
+60,m,english,not hispanic,1,0,0,NA,0,0,0,0,0,0,0.28157902
+35,m,other,other,0,0,0,NA,0,0,0,0,0,0,0.27116212
+48,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.26512015
+49,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.26512015
+54,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.26512015
+55,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.26512015
+55,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.26512015
+56,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.26512015
+57,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.26512015
+50,m,spanish,hispanic,1,0,0,0,0,0,0,1,0,0,0.25901076
+74,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,1,0.24722277
+33,m,english,black/african american,1,0,0,0,0,0,0,0,0,1,0.2415522
+30,m,spanish,hispanic,1,1,0,0,0,1,0,0,0,0,0.2349823
+36,m,spanish,hispanic,1,1,0,0,0,1,0,0,0,0,0.2349823
+58,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.23011477
+62,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.23011477
+48,f,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.22981167
+76,f,spanish,not hispanic,1,0,0,0,0,0,0,0,0,0,0.22173418
+44,m,spanish,hispanic,1,1,0,0,0,0,0,0,0,1,0.20615467
+45,m,spanish,hispanic,1,1,0,0,0,0,0,0,0,0,0.20615467
+28,m,spanish,hispanic,0,1,0,0,1,0,0,0,0,0,0.20467412
+36,m,spanish,hispanic,0,1,0,0,1,0,0,0,0,0,0.20467412
+50,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.20416749
+50,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.20416749
+52,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,1,0.20416749
+53,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.20416749
+55,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.20416749
+56,m,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.20416749
+55,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.19999607
+56,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.19999607
+57,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.19999607
+60,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.18058531
+63,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.18058531
+51,f,other,other,0,0,0,0,0,0,0,0,0,0,0.17855106
+48,m,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.1769147
+50,m,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.1769147
+52,m,spanish,hispanic,0,0,0,0,1,0,0,0,0,1,0.1769147
+57,m,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.1769147
+69,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+70,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+71,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+71,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+71,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.16871156
+72,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.16871156
+72,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.16871156
+73,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+75,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+75,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.16871156
+28,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.15953451
+30,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.15953451
+33,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.15953451
+58,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.15929806
+50,m,other,other,0,0,0,0,0,0,0,0,0,0,0.15745753
+53,m,other,other,0,0,0,0,0,0,0,0,0,0,0.15745753
+48,f,english,black/african american,0,1,0,0,0,0,0,0,0,0,0.15589234
+39,m,spanish,hispanic,1,1,0,0,0,1,0,0,0,1,0.1558829
+34,f,spanish,hispanic,1,0,0,0,0,0,0,1,0,0,0.1553439
+68,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.1485702
+69,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.1485702
+70,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.1485702
+73,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.1485702
+71,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.14461803
+28,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.14030382
+31,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.14030382
+33,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.14030382
+35,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.14030382
+35,m,spanish,hispanic,1,0,0,0,0,0,0,1,0,1,0.1365363
+28,f,english,black/african american,0,0,0,0,1,1,0,0,0,0,0.13564907
+64,f,english,black/african american,0,0,0,0,0,1,0,0,0,0,0.13548459
+48,m,spanish,hispanic,0,0,0,0,1,1,0,0,0,0,0.13258238
+53,m,spanish,hispanic,0,0,0,0,1,1,0,0,0,0,0.13258238
+74,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.12611985
+53,m,other,other,0,0,0,0,0,1,0,0,0,0,0.11730602
+86,f,english,black/african american,0,0,0,0,0,0,0,0,0,1,0.11634818
+71,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.110388026
+40,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.1024317
+43,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.1024317
+43,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.1024317
+45,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.1024317
+46,f,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.1024317
+29,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.10160073
+33,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.10160073
+58,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+58,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+58,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+59,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+59,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+59,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+60,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+60,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+60,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+60,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+60,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+61,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+62,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+62,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+63,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+64,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+66,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.10147269
+66,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.10147269
+66,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.10147269
+66,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+67,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+67,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.10147269
+67,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.10147269
+43,f,spanish,hispanic,1,0,0,0,0,0,0,1,0,1,0.09956337
+35,f,english,black/african american,NA,0,0,0,0,0,0,0,0,0,0.09863587
+60,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.09862826
+62,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.09862826
+64,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.09862826
+23,m,spanish,hispanic,0,1,0,0,1,0,0,0,0,0,0.09062392
+34,f,other,other,0,0,0,0,0,0,0,0,0,0,0.089525685
+41,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+41,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,1,0.08935254
+44,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+44,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+44,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+47,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+47,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+47,m,spanish,hispanic,1,0,0,0,0,0,0,0,0,0,0.08935254
+58,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+58,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+58,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+59,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+60,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+61,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+63,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+63,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+64,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+66,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+67,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.08850391
+43,m,spanish,hispanic,1,0,0,0,0,0,0,1,0,1,0.08681503
+54,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.08645609
+64,f,spanish,not hispanic,0,0,0,0,1,0,0,0,0,0,0.08630272
+30,f,english,black/african american,0,1,0,0,0,0,0,0,0,0,0.077104144
+31,f,english,black/african american,0,1,0,0,0,0,0,0,0,0,0.077104144
+49,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0752458
+49,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0752458
+50,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0752458
+51,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0752458
+53,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0752458
+56,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0752458
+43,f,spanish,hispanic,1,0,0,0,0,1,0,0,0,0,0.07506166
+29,f,spanish,hispanic,0,0,0,0,1,1,0,0,0,0,0.07443431
+59,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.074337676
+60,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,1,0.074337676
+65,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.074337676
+61,f,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.072192766
+60,f,haitian,not hispanic,1,0,0,0,0,0,0,0,0,0,0.0714693
+57,f,other,not hispanic,1,0,0,0,0,0,0,0,0,0,0.06998451
+50,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.06522771
+58,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.064587615
+61,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.064587615
+62,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.064587615
+38,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.06366364
+42,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.06366364
+42,m,spanish,hispanic,1,0,0,0,0,1,0,1,0,0,0.063323416
+78,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+79,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+79,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+82,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+83,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+83,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+84,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+87,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+87,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.06320647
+60,m,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.06270497
+20,f,haitian,black/african american,0,0,0,0,1,0,0,0,0,0,0.059710592
+82,f,english,not hispanic,1,0,0,0,0,0,0,0,0,0,0.05828065
+50,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.056599446
+44,f,other,other,0,0,0,0,0,0,0,0,0,0,0.055817217
+87,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.05482989
+49,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.05469723
+49,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.05469723
+49,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.05469723
+50,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.05469723
+55,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.05469723
+48,m,spanish,hispanic,0,1,0,0,0,1,0,1,0,0,0.05308652
+58,f,english,hispanic,0,0,0,0,0,1,0,0,0,0,0.049856223
+51,f,haitian,black/african american,0,0,0,0,0,0,0,0,0,1,0.049293846
+54,f,haitian,black/african american,0,0,0,0,0,0,0,0,0,0,0.049293846
+30,m,english,black/african american,0,1,0,0,0,1,0,0,0,0,0.04859789
+44,m,other,other,0,0,0,0,0,0,0,0,0,0,0.04836935
+24,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.04195603
+25,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.04195603
+26,f,spanish,hispanic,0,0,0,0,1,0,0,0,0,0,0.04195603
+44,m,english,black/african american,0,1,0,0,0,0,0,0,0,0,0.04139854
+30,f,english,other,0,0,0,0,0,0,0,0,0,0,0.041095506
+28,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.041054267
+30,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.041054267
+30,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.041054267
+31,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.041054267
+31,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.041054267
+34,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.041054267
+28,m,spanish,black/african american,0,0,0,0,0,0,0,0,0,0,0.039880957
+33,f,spanish,hispanic,0,0,0,0,NA,0,0,0,0,0,0.03983803
+33,f,spanish,hispanic,0,0,0,0,NA,0,0,0,0,0,0.03983803
+29,f,spanish,hispanic,0,1,0,0,0,0,0,1,0,0,0.039828382
+35,f,spanish,hispanic,0,1,0,0,0,0,0,1,0,0,0.039828382
+34,m,english,other,0,0,0,0,0,0,0,0,0,0,0.03553807
+28,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+29,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+29,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+29,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+30,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+30,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+32,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+32,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+33,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+35,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+35,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+36,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+36,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+36,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+36,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+36,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+37,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.0355022
+37,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,1,0.0355022
+41,f,spanish,hispanic,1,0,0,1,0,0,0,0,0,0,0.03452835
+48,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+48,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+48,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+48,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+48,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+48,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+49,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+49,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+49,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+49,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+49,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+50,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+51,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+51,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+51,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+51,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+51,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+52,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+52,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+52,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+52,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+52,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+53,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+53,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+53,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+54,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+54,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+54,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+55,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+55,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+55,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+55,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+56,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+56,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+56,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+57,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+57,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+57,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+57,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+57,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+57,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.034522917
+49,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.03348525
+27,m,other,other,0,0,0,0,0,0,0,0,0,0,0.031700134
+28,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.03060041
+29,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.03060041
+29,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.03060041
+32,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.03060041
+34,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.03060041
+35,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.03060041
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+48,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+49,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+49,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+49,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+50,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+51,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+51,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+51,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+52,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+52,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+52,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+53,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+53,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+53,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+53,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+54,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+54,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+54,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+55,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+56,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+57,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+57,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.02982666
+30,f,english,black/african american,0,0,0,0,0,0,0,1,0,0,0.029677017
+32,f,english,black/african american,0,0,0,0,0,0,0,1,0,0,0.029677017
+32,f,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.029544614
+36,f,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.029544614
+49,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.02892592
+51,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.02892592
+53,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.02892592
+56,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.02892592
+61,m,spanish,hispanic,1,0,NA,0,0,0,0,0,0,0,0.028667623
+30,f,english,hispanic,0,1,0,0,0,0,0,0,0,0,0.027211737
+23,f,spanish,hispanic,0,0,0,NA,0,0,0,0,0,0,0.026826486
+28,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.02642314
+29,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.02642314
+29,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.02642314
+33,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.02642314
+36,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.02642314
+27,m,english,black/african american,0,1,0,0,0,0,0,1,0,0,0.026243763
+28,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+28,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+28,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+29,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+31,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+32,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+32,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+32,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+32,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+32,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+33,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+35,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.02550768
+45,f,english,other,0,0,0,0,0,0,0,0,0,0,0.025119022
+41,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.025093393
+43,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.025093393
+49,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.024796994
+51,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.024796994
+51,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.024796994
+54,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.024796994
+56,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.024796994
+30,m,spanish,hispanic,0,1,0,0,0,1,0,1,0,0,0.024734043
+44,f,spanish,hispanic,0,0,0,0,NA,0,0,0,0,0,0.024338
+52,f,spanish,hispanic,0,0,0,0,0,1,0,1,0,1,0.024044381
+40,m,spanish,other,0,0,0,0,0,1,0,0,0,0,0.023542842
+57,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.022830175
+89,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.022071103
+90,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,1,0.022071103
+29,f,english,black/african american,0,0,0,0,0,1,0,0,0,0,0.021954421
+39,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+41,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+41,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+43,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+43,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+43,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+44,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+44,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+45,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+45,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+46,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+47,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.021651099
+48,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+49,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+50,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+50,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+50,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,1,0.021394465
+50,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+50,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+52,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+52,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+53,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+53,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+54,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+54,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+54,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+56,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+56,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.021394465
+54,f,spanish,hispanic,1,0,0,0,0,0,NA,0,0,0,0.021329261
+45,m,spanish,hispanic,0,0,0,0,NA,0,0,0,0,0,0.020997096
+38,m,spanish,hispanic,0,1,0,0,0,0,0,1,0,0,0.02099191
+43,m,spanish,hispanic,0,1,0,0,0,0,0,1,0,0,0.02099191
+59,f,other,not hispanic,0,0,0,0,0,0,0,0,0,0,0.019851122
+34,m,haitian,black/african american,0,0,0,0,0,0,0,0,0,0,0.019768018
+30,m,english,black/african american,0,0,0,0,0,1,0,0,0,0,0.018934363
+43,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.0186248
+58,m,english,not hispanic,NA,0,0,0,0,1,0,0,0,0,0.018366227
+48,f,english,hispanic,0,0,0,0,0,1,0,0,0,0,0.016342614
+61,f,english,not hispanic,0,1,0,0,0,1,0,0,0,0,0.016342374
+23,f,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.016308155
+40,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.016055249
+42,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.016055249
+45,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.016055249
+47,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.016055249
+28,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+28,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+28,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+28,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+29,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+30,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+30,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+30,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+30,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+30,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+30,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+31,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+32,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+33,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+34,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+34,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+34,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+34,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+34,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+35,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+36,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+37,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+37,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+37,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+37,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.01591823
+45,m,english,other,0,0,0,0,0,1,0,0,0,0,0.015509257
+39,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.015493278
+41,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.015493278
+42,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.015493278
+47,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.015493278
+32,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.015430833
+34,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.015430833
+40,m,spanish,hispanic,0,1,0,0,0,1,0,1,0,0,0.015018694
+45,m,spanish,hispanic,0,1,0,0,0,1,0,1,0,0,0.015018694
+44,m,spanish,hispanic,0,0,1,0,0,1,0,0,0,0,0.014605749
+40,m,english,hispanic,0,1,0,0,0,0,0,0,0,0,0.014253615
+60,m,english,not hispanic,0,1,0,0,0,1,0,0,0,0,0.014083195
+64,m,english,not hispanic,0,1,0,0,0,1,0,0,0,0,0.014083195
+21,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.01405364
+24,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.01405364
+25,m,spanish,hispanic,0,1,0,0,0,0,0,0,0,0,0.01405364
+32,f,spanish,hispanic,0,0,0,0,0,0,0,NA,0,0,0.013984229
+28,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+29,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+29,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+29,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+30,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+30,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+30,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+30,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+30,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+31,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+31,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+33,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+33,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+33,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+33,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+33,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+34,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+34,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+34,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+34,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+34,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+34,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+35,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+35,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+35,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+36,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+37,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+37,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.013716869
+27,m,spanish,hispanic,0,1,0,0,0,0,0,1,0,0,0.013622544
+40,f,english,black/african american,0,0,0,0,0,1,0,0,0,0,0.013315979
+28,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+28,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+29,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+29,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+30,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+35,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+36,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.013295964
+26,f,spanish,black/african american,0,0,0,0,0,1,0,0,0,0,0.013128985
+19,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+21,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+22,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+23,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+23,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+24,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+27,f,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.012076175
+35,m,spanish,hispanic,0,0,0,0,0,0,0,NA,0,0,0.01204705
+56,f,other,not hispanic,0,1,0,0,0,1,0,0,0,0,0.011925306
+22,f,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.011651833
+22,f,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.011651833
+42,m,english,black/african american,0,0,0,0,0,1,0,0,0,0,0.011470294
+28,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+29,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+29,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+29,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+30,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+30,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+30,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+33,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+34,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+35,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+37,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+37,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.011371953
+33,f,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.011022198
+34,f,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.011022198
+28,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.010458546
+31,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.010458546
+37,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.010458546
+37,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.010458546
+19,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.010400523
+19,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.010400523
+20,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.010400523
+21,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.010400523
+23,m,english,black/african american,0,0,0,0,0,0,0,0,0,0,0.010400523
+45,m,spanish,hispanic,0,NA,0,0,0,1,0,0,0,0,0.010147075
+20,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+22,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+24,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+25,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+25,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+25,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+26,m,spanish,hispanic,0,1,0,0,0,1,0,0,0,0,0.010034462
+38,f,portuguese,black/african american,1,0,0,0,0,0,0,0,0,0,0.009835032
+28,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+29,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+29,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+29,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+30,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+31,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+31,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+31,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+31,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+32,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+32,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+32,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+32,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+32,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+33,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+33,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+33,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+34,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+34,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+34,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+34,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+35,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+35,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+35,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+37,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.009793048
+38,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+38,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+38,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+38,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+38,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+38,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+39,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+39,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+39,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+39,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+39,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+40,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+41,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+41,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+41,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+42,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+42,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+42,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+42,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+42,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+43,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+44,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+45,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+45,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+46,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+47,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+47,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.009631471
+38,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.00933474
+39,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.00933474
+41,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.00933474
+45,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.00933474
+46,f,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.00933474
+22,m,english,hispanic,0,1,0,0,0,0,0,0,0,0,0.009227481
+20,f,english,white,0,0,0,0,1,0,0,0,0,0,0.009120811
+31,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.009005304
+32,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.009005304
+35,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.009005304
+36,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.009005304
+21,f,english,white,0,0,0,0,1,0,0,1,0,0,0.008839672
+58,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.008750143
+59,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.008750143
+59,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.008750143
+61,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.008750143
+63,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.008750143
+65,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.008750143
+36,m,english,hispanic,0,0,0,0,0,0,0,1,0,0,0.008727695
+64,f,english,not hispanic,0,0,0,0,0,0,0,1,0,0,0.008480333
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+38,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+39,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+40,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+41,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+42,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+43,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+43,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+44,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+44,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+44,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+45,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+46,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+46,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+46,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+46,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+46,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+46,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+47,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.00829219
+62,m,spanish,not hispanic,0,0,0,0,0,1,0,0,0,0,0.008192454
+38,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+39,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+41,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+41,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+42,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+46,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+47,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.008036386
+22,m,english,not hispanic,0,1,0,0,1,0,0,0,0,0,0.007729361
+28,f,english,hispanic,0,0,0,0,0,1,0,0,0,0,0.007459744
+33,f,english,hispanic,0,0,0,0,0,1,0,0,0,0,0.007459744
+44,m,spanish,hispanic,0,0,0,0,0,0,0,NA,0,0,0.007277869
+39,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.006868172
+40,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.006868172
+43,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.006868172
+46,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.006868172
+20,m,english,hispanic,0,1,0,0,0,1,0,0,0,0,0.006579319
+24,m,english,hispanic,0,1,0,0,0,1,0,0,0,0,0.006579319
+22,f,english,white,0,0,0,0,1,1,0,0,0,0,0.00650306
+49,f,other,not hispanic,0,0,0,0,0,0,0,0,0,0,0.006371835
+50,m,english,not hispanic,0,1,0,0,0,0,0,0,0,0,0.006319993
+41,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.006314203
+45,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.006314203
+18,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+19,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+19,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+19,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+19,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+20,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+20,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+20,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+20,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+21,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+22,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+22,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+22,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+22,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+22,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+22,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+23,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+24,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+24,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+24,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+24,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+24,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+25,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+26,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+26,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+26,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+26,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+26,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+26,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+27,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+27,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+27,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+27,f,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.006224913
+38,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+38,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+38,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+39,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+39,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+39,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+40,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+41,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+42,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+42,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+42,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+42,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+43,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+44,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+44,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+44,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+45,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+46,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+46,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+47,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+47,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.005910842
+42,m,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.005728075
+43,m,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.005728075
+44,m,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.005728075
+20,f,spanish,hispanic,0,0,0,0,0,0,0,NA,0,0,0.005462073
+27,f,spanish,hispanic,0,0,0,0,0,0,0,NA,0,0,0.005462073
+66,m,english,not hispanic,0,0,0,0,0,1,0,0,0,0,0.005368126
+19,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+19,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+19,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+20,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+20,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+21,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+21,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+21,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+21,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+21,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+21,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+22,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+22,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+23,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+23,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+23,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+24,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+24,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+24,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+24,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+24,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+24,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+25,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+25,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+26,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+27,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+27,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+27,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+27,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+27,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+27,m,spanish,hispanic,0,0,0,0,0,0,0,0,0,0,0.005356761
+52,f,english,white,0,0,0,0,0,1,0,0,0,0,0.005316097
+81,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.00524623
+23,m,spanish,hispanic,0,0,0,0,0,0,0,1,0,0,0.005191037
+24,m,spanish,hispanic,0,0,0,0,0,0,0,NA,0,0,0.004699807
+68,f,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,0.004557389
+39,m,english,hispanic,0,1,0,1,0,0,0,0,0,0,0.004510926
+21,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+21,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+23,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+23,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+24,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+24,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+27,f,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.00443459
+31,m,french,hispanic,1,0,0,0,0,0,0,0,0,0,0.004310882
+20,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+20,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+24,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+25,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+25,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+26,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+26,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+27,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+27,f,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.004076101
+70,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,0.00392088
+20,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+20,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+20,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+21,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+21,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+22,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+22,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+23,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+24,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+24,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+25,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+25,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+25,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+25,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+26,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+27,m,spanish,hispanic,0,0,0,0,0,1,0,0,0,0,0.003815165
+66,f,haitian,black/african american,1,0,0,0,0,0,1,0,0,0,0.003798161
+23,m,spanish,hispanic,0,0,0,0,0,1,0,1,0,0,0.003696957
+48,m,spanish,not hispanic,0,0,0,0,0,0,0,0,0,0,0.003664388
+22,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.003506574
+24,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.003506574
+25,m,english,hispanic,0,0,0,0,0,0,0,0,0,0,0.003506574
+32,f,english,not hispanic,0,1,0,0,0,0,0,0,0,0,0.003335243
+41,f,other,not hispanic,0,1,0,0,0,1,0,0,0,0,0.0032718
+35,m,spanish,hispanic,0,0,0,1,0,1,0,0,0,1,0.003089707
+26,m,english,white,0,1,0,0,0,0,0,0,0,0,0.002987034
+28,f,other,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002892549
+31,f,english,asian,0,0,0,0,0,1,0,0,0,0,0.002815274
+53,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002787196
+54,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002787196
+54,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002787196
+57,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002787196
+59,f,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,0.002622435
+62,f,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,0.002622435
+40,m,spanish,hispanic,0,0,0,1,0,0,0,0,0,0,0.002613475
+23,m,haitian,hispanic,0,0,0,0,0,0,0,0,0,0,0.002607922
+23,m,english,hispanic,0,0,0,0,0,1,0,0,0,0,0.002496098
+35,m,other,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002487979
+26,f,english,white,0,1,0,0,0,1,0,0,0,0,0.0024718
+33,m,other,not hispanic,0,0,0,0,0,0,0,1,0,0,0.002410792
+50,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002397326
+50,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.002397326
+29,f,english,not hispanic,0,1,0,0,0,1,0,0,0,0,0.002374022
+44,f,english,native american,0,0,0,0,0,0,0,0,0,0,0.002261294
+31,m,english,white,0,0,0,0,0,1,0,0,0,0,0.002074406
+30,m,english,not hispanic,0,1,0,0,0,1,0,0,0,0,0.002041827
+48,f,english,not hispanic,0,0,0,0,0,1,0,0,0,0,0.001983608
+46,m,english,native american,0,0,0,0,0,0,0,0,0,0,0.001944843
+35,f,spanish,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001931366
+49,m,spanish,hispanic,1,1,0,0,0,0,1,0,0,0,0.001890868
+51,m,haitian,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001782439
+53,m,haitian,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001782439
+38,m,english,white,0,0,0,0,0,0,0,0,0,0,0.001754392
+63,m,spanish,hispanic,1,0,0,0,0,1,1,0,0,0,0.001605003
+64,m,spanish,hispanic,1,0,0,0,0,1,1,0,0,0,0.001605003
+31,f,spanish,not hispanic,0,0,0,0,0,1,0,0,0,0,0.001374186
+29,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001262784
+29,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001262784
+29,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001262784
+30,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001262784
+40,m,english,not hispanic,0,1,0,0,0,1,0,0,0,0,0.001228584
+30,f,english,not hispanic,0,0,0,0,0,0,0,1,0,0,0.001223561
+20,m,english,white,0,0,0,0,0,0,0,0,0,0,0.0011307
+26,f,other,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001122103
+28,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001085915
+36,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,0.001085915
+24,m,other,not hispanic,0,0,0,0,0,0,0,0,0,0,9.65E-04
+21,m,english,asian,0,0,0,0,0,1,0,0,0,0,9.39E-04
+27,m,english,asian,0,0,0,0,0,1,0,0,0,0,9.39E-04
+36,f,haitian,not hispanic,0,0,0,0,0,0,0,0,0,0,9.39E-04
+26,f,english,white,0,0,0,0,0,1,0,0,0,0,9.35E-04
+79,f,spanish,hispanic,0,0,0,0,1,0,1,0,0,0,9.35E-04
+28,f,english,not hispanic,0,0,0,0,0,1,0,0,0,0,8.98E-04
+34,f,english,not hispanic,0,0,0,0,0,1,0,0,0,0,8.98E-04
+49,f,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,8.32E-04
+57,f,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,8.32E-04
+53,f,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,8.06E-04
+35,f,russian,not hispanic,0,0,0,0,0,0,0,0,0,0,7.97E-04
+23,m,english,not hispanic,0,1,0,0,0,1,0,0,0,0,7.92E-04
+32,m,english,not hispanic,0,0,0,0,0,1,0,0,0,0,7.72E-04
+33,m,english,not hispanic,0,0,0,0,0,1,0,0,0,0,7.72E-04
+40,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,7.60E-04
+41,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,7.60E-04
+19,f,spanish,not hispanic,0,0,0,0,0,0,0,0,0,0,7.49E-04
+51,m,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,7.15E-04
+53,m,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,7.15E-04
+53,m,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,7.15E-04
+51,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,6.93E-04
+52,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,6.93E-04
+54,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,6.93E-04
+56,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,6.93E-04
+38,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,6.53E-04
+40,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,6.53E-04
+41,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,6.53E-04
+46,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,6.53E-04
+47,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,6.53E-04
+35,m,spanish,hispanic,1,1,0,0,0,1,1,0,0,0,6.09E-04
+32,m,spanish,hispanic,1,1,0,0,0,1,1,1,0,0,5.90E-04
+23,f,portuguese,black/african american,0,0,0,0,0,0,0,0,0,0,5.45E-04
+56,m,spanish,hispanic,1,0,0,0,0,1,1,0,0,0,5.09E-04
+45,m,spanish,hispanic,1,1,0,0,0,0,1,1,0,0,4.99E-04
+19,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+20,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+20,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+22,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+22,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+23,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+23,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+24,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+25,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+26,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+27,f,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+44,f,farsi,not hispanic,0,0,0,0,0,0,0,0,0,0,4.89E-04
+40,m,haitian,not hispanic,0,0,0,0,0,0,0,0,0,0,4.85E-04
+25,f,english,not hispanic,0,0,0,0,0,0,0,1,0,0,4.74E-04
+21,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.21E-04
+23,m,english,not hispanic,0,0,0,0,0,0,0,0,0,0,4.21E-04
+72,f,spanish,hispanic,0,0,0,0,0,0,1,0,0,0,4.03E-04
+20,f,english,not hispanic,0,0,0,0,0,1,0,0,0,0,3.48E-04
+22,f,english,not hispanic,0,0,0,0,0,1,0,0,0,0,3.48E-04
+69,m,spanish,hispanic,0,0,0,0,0,0,1,0,0,0,3.46E-04
+35,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,3.14E-04
+27,m,english,not hispanic,0,0,0,0,0,1,0,0,0,0,2.99E-04
+45,f,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,2.26E-04
+47,f,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,2.26E-04
+41,f,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,2.19E-04
+63,f,spanish,hispanic,0,0,0,0,0,0,1,1,0,0,2.17E-04
+45,m,spanish,hispanic,1,0,0,0,0,0,1,0,0,0,1.95E-04
+45,m,spanish,hispanic,1,0,0,0,0,0,1,1,0,0,1.89E-04
+67,f,spanish,hispanic,0,0,0,0,0,1,1,1,0,0,1.54E-04
+61,m,spanish,hispanic,0,0,0,0,0,1,1,0,0,0,1.37E-04
+85,f,spanish,hispanic,0,0,0,0,0,0,1,0,0,0,1.34E-04
+27,f,spanish,hispanic,0,0,0,0,1,0,1,1,0,0,8.42E-05
+67,f,haitian,hispanic,0,0,0,0,0,1,1,0,0,0,7.74E-05
+65,f,arabic,white,0,0,0,0,0,0,1,0,0,0,6.22E-05
+37,f,spanish,hispanic,0,0,0,0,0,0,1,1,0,0,3.11E-05
+39,f,spanish,hispanic,0,0,0,0,0,0,1,1,0,0,1.87E-05
+32,f,english,white,0,0,0,0,0,0,1,0,0,0,6.75E-06
+44,m,spanish,hispanic,1,0,NA,0,0,1,1,1,0,0,3.47E-06
