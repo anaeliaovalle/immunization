@@ -1,6 +1,6 @@
-### Immunization Logistic Regression
+## Immunization Logistic Regression
 
-#### Contents
+### Contents
 1. **immune_lr.ipynb**:  Python notebook containing data cleaning/preprocessing/modeling
 2. **immune_data.csv**: Csv file used to create model. 1085 records
 3. **pneumo.csv**: immunization probabilities for Pneumococcal vaccine 3/16-3/17
